@@ -102,6 +102,10 @@ https://api.openweathermap.org/data/2.5/weather?q=London&appid=API_KEY&units=met
 
 ---
 
+## 📡 Live Demo 
+```http
+https://weather-app-openweather-apis.netlify.app/
+```
 ## 📌 Future Improvements
 
 * 🌍 GPS-based location detection
